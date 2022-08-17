@@ -1,0 +1,14 @@
+{
+  "name": "bellmanford",
+  "version": "1.0.0",
+  "description": "algorithm of bellman ford",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cheikh gueye",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
